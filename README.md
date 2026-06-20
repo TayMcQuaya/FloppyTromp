@@ -1,5 +1,5 @@
 ### 📄 Custom License (No Distribution, No Modification, No Commercial Use)
-
+### For Orynth Verification my Twitter handle is [[@TayMcQuaya]](https://x.com/TayMcQuaya)
 Copyright © TayMcQuaya 2025
 
 This repository and its contents are **not open source** and are protected under the following terms:
@@ -10,6 +10,6 @@ This repository and its contents are **not open source** and are protected under
 
 By accessing or using this repository, you agree to be bound by these terms. Unauthorized use may result in legal action.
 
-For permission requests or other inquiries, please contact me on Twitter: [[TayMcQuaya]](https://x.com/TayMcQuaya)
+For permission requests or other inquiries, please contact me on Twitter: [[@TayMcQuaya]](https://x.com/TayMcQuaya)
 
 ---
